@@ -22,26 +22,26 @@ main {
   min-height: 100vh;
 }
 
-.parallax-section {
+/* .parallax-section {
   height: 60vh;
   background-attachment: fixed;
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
-}
+} */
 
-.slanted {
+/* .slanted {
   transform: skewY(8deg);
-  /* clip-path: polygon(-920px -274px, 2264px 119px, 2241px 465px, -920px 97px); */
-}
+  clip-path: polygon(-920px -274px, 2264px 119px, 2241px 465px, -920px 97px);
+} */
 
-#section1 {
+/* #section1 {
   background-image: url("../images/home/river-5900547_640.jpg");
 }
 
 #section2 {
   background-image: url("../images/home/cabaneros-national-park-6724690_640.jpg");
-}
+} */
 
 a {
   --bs-link-color-rgb: 0, 122, 255;
