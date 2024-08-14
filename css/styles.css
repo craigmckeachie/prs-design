@@ -3,52 +3,17 @@
 body {
   font-family: "Raleway", sans-serif;
 }
-/* 
-@import url("https://fonts.googleapis.com/css2?family=Inter:wght@100..900&display=swap");
 
-body {
-  font-family: "Inter", sans-serif;
-  font-optical-sizing: auto;
-  font-weight: 400;
-  font-style: normal;
-  font-variation-settings: "slnt" 0;
-} */
-
-/* body {
-  font-family: system-ui, sans-serif;
-} */
 
 main {
   min-height: 100vh;
 }
-
-/* .parallax-section {
-  height: 60vh;
-  background-attachment: fixed;
-  background-position: center;
-  background-repeat: no-repeat;
-  background-size: cover;
-} */
-
-/* .slanted {
-  transform: skewY(8deg);
-  clip-path: polygon(-920px -274px, 2264px 119px, 2241px 465px, -920px 97px);
-} */
-
-/* #section1 {
-  background-image: url("../images/home/river-5900547_640.jpg");
-}
-
-#section2 {
-  background-image: url("../images/home/cabaneros-national-park-6724690_640.jpg");
-} */
 
 a {
   --bs-link-color-rgb: 0, 122, 255;
 }
 
 .nav-pills {
-  /* --bs-nav-pills-border-radius: var(--bs-border-radius); */
   --bs-nav-pills-link-active-color: #fff;
   --bs-nav-pills-link-active-bg: #007aff;
 }
@@ -63,9 +28,9 @@ a {
   grid-template-rows: 1fr;
 }
 
-table th {
+/* table th {
   width: auto !important;
-}
+} */
 
 .card > .progress {
   height: 0.1875rem;
